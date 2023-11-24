@@ -47,8 +47,8 @@
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "2.6.0",
-    "javascript-stringify": "2.0.1"
+    "node-fetch": "3.3.2",
+    "javascript-stringify": "2.1.0"
   },
   "devDependencies": {
     "updtr": "3.1.0",
